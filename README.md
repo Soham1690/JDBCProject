@@ -1,4 +1,6 @@
-![restaurant-interior](https://github.com/user-attachments/assets/89b2b6c2-f2d6-491a-bc6d-8cc75635a0a1)
+<p align="center">
+  <img src="flavorverse-banner.jpg" alt="Flavorverse Banner" width="600"/>
+</p>
 
 
 # FLAVORVERSE — Java + JDBC Restaurant Order System
