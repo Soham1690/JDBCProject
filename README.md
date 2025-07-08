@@ -28,20 +28,19 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 
 <p style="margin-top: 4px;">Java Developer | Backend Engineer | Database Enthusiast</p> <p> <a href="https://github.com/Soham1690" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Soham1690-181717?style=flat&logo=github" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/soham6969" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Soham%20Sanyal-0077B5?style=flat&logo=linkedin" alt="LinkedIn"> </a> <a href="mailto:sohamsanyal2@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-sohamsanyal2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"> </a> </p> </div>
 
-<p align="center">
-  <a href="https://www.java.com">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  </a>
-  <a href="https://www.mysql.com">
-    <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Java_Database_Connectivity">
-    <img src="https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="JDBC Badge"/>
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License Badge"/>
-  </a>
-</p>
+<a href="https://www.java.com">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+</a>
+<a href="https://www.mysql.com">
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Java_Database_Connectivity">
+  <img src="https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="JDBC Badge"/>
+</a>
+<a href="LICENSE">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License Badge"/>
+</a>
+
 
 
 ## Installation
