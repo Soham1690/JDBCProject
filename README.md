@@ -49,7 +49,7 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 - Maven or Gradle (optional, if you use build tools)
 - Command-line interface for interaction
 
-📝 Quick Notes
+## 📝 Quick Notes
 🧾 Requires mysql-connector-j JAR in your classpath for JDBC connectivity.
 
 🧠 Make sure your MySQL port (default: 3306) is open and not blocked by firewall.
@@ -57,7 +57,7 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 🖼️ GUI/CLI-based interactive terminal – runs in console, no external UI needed.
 
 
-#🚀 Setup Instructions
+## 🚀 Setup Instructions
 Follow these steps to get FLAVORVERSE up and running on your machine:
 
 🔧 1. Install Prerequisites
