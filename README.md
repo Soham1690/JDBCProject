@@ -224,5 +224,9 @@ java RestaurantOrderSystem</code></pre>
 
 
 
+##  What I Learned
 
-
+- Mastered advanced **JDBC connectivity**
+- Built a **modular Java OOP system**
+- Implemented **real-world DB features**
+- Practiced professional **Git workflow**
