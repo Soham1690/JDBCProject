@@ -127,18 +127,18 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 
 
 ## 📝 Quick Notes
-🧾 Requires mysql-connector-j JAR in your classpath for JDBC connectivity.
+ Requires mysql-connector-j JAR in your classpath for JDBC connectivity.
 
-🧠 Make sure your MySQL port (default: 3306) is open and not blocked by firewall.
+ Make sure your MySQL port (default: 3306) is open and not blocked by firewall.
 
-🖼️ GUI/CLI-based interactive terminal – runs in console, no external UI needed.
+ GUI/CLI-based interactive terminal – runs in console, no external UI needed.
 
 
-<h2>🚀 Setup Instructions</h2>
+<h2> Setup Instructions</h2>
 <p>Follow these steps to get <strong>FLAVORVERSE</strong> up and running on your machine:</p>
 
 <details open>
-<summary><strong>🔧 Step 1: Install Prerequisites</strong></summary>
+<summary><strong> Step 1: Install Prerequisites</strong></summary>
 <ul>
   <li><strong>Java JDK 8+</strong> — Download from <a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html" target="_blank">Oracle JDK</a> or use OpenJDK.</li>
   <li><strong>MySQL Server</strong> — Install from <a href="https://dev.mysql.com/downloads/mysql/" target="_blank">MySQL Downloads</a> and ensure it’s running locally.</li>
@@ -146,7 +146,7 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 </details>
 
 <details>
-<summary><strong>🛠️ Step 2: Create MySQL Database</strong></summary>
+<summary><strong>Step 2: Create MySQL Database</strong></summary>
 <p>Open MySQL CLI or MySQL Workbench and run the following command:</p>
 
 <pre><code>CREATE DATABASE unisoft;</code></pre>
@@ -155,7 +155,7 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 </details>
 
 <details>
-<summary><strong>🔐 Step 3: Configure Database Connection</strong></summary>
+<summary><strong> Step 3: Configure Database Connection</strong></summary>
 <p>Edit the connection credentials in <code>RestaurantOrderSystem.java</code>:</p>
 
 <pre><code>String url = "jdbc:mysql://localhost:3306/unisoft";
@@ -164,13 +164,13 @@ String password = "your_mysql_password";</code></pre>
 </details>
 
 <details>
-<summary><strong>🧪 Step 4: Compile & Run the App</strong></summary>
+<summary><strong> Step 4: Compile & Run the App</strong></summary>
 <p>Open your terminal or IDE and execute:</p>
 
 <pre><code>javac RestaurantOrderSystem.java
 java RestaurantOrderSystem</code></pre>
 
-<p><strong>💡 Pro Tip:</strong> For best visuals, use a terminal that supports emoji (e.g., Windows Terminal, VS Code).</p>
+<p><strong> Pro Tip:</strong> For best visuals, use a terminal that supports emoji (e.g., Windows Terminal, VS Code).</p>
 </details>
 
 
@@ -182,67 +182,32 @@ java RestaurantOrderSystem</code></pre>
    java RestaurantOrderSystem
 
 
-<h2>📸 Project Screenshots</h2>
-<p>Here’s a visual walkthrough of FLAVORVERSE in action:</p>
+##  Project Screenshots
 
-<div align="center">
+| Main Page | Menu Page |
+|-----------|-----------|
+| ![Main Page](Screenshots/MainPage.png) | ![Menu Page](https://github.com/user-attachments/assets/c3b4dd12-10fa-44b4-a275-abf3f927a5ac) |
 
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/MainPage.png" alt="Main Page" width="300">
-    <figcaption><strong>Main Page</strong></figcaption>
-  </figure>
+| Place Order | View Receipt |
+|-------------|--------------|
+| ![Place Order](Screenshots/PlaceOrder.png) | ![View Receipt](Screenshots/ViewReceipt.png) |
 
-  <figure style="display:inline-block; margin:20px;">
-    <img src="https://github.com/user-attachments/assets/c3b4dd12-10fa-44b4-a275-abf3f927a5ac" alt="Menu Page" width="300">
-    <figcaption><strong>Menu Page</strong></figcaption>
-  </figure>
+| Feedback | Reorder Previous |
+|----------|------------------|
+| ![Feedback](Screenshots/Feedback.png) | ![Reorder Previous](Screenshots/ReorderPrevious.png) |
 
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/PlaceOrder.png" alt="Place Order" width="300">
-    <figcaption><strong>Place Order</strong></figcaption>
-  </figure>
+| Status Update | Top Selling Items |
+|----------------|------------------|
+| ![Status Update](Screenshots/StatusUpdate.png) | ![Top Selling Items](Screenshots/TopSelling.png) |
 
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/ViewReceipt.png" alt="View Receipt" width="300">
-    <figcaption><strong>View Receipt</strong></figcaption>
-  </figure>
+| View Orders | Monthly Sales |
+|-------------|----------------|
+| ![View Orders](Screenshots/ViewOrders.png) | ![Monthly Sales](Screenshots/MonthlySales.png) |
 
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/Feedback.png" alt="Feedback" width="300">
-    <figcaption><strong>Feedback</strong></figcaption>
-  </figure>
+| Exit |
+|------|
+| ![Exit](Screenshots/Exit.png) |
 
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/ReorderPrevious.png" alt="Reorder Previous" width="300">
-    <figcaption><strong>Reorder Previous</strong></figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/StatusUpdate.png" alt="Status Update" width="300">
-    <figcaption><strong>Status Update</strong></figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/TopSelling.png" alt="Top Selling Items" width="300">
-    <figcaption><strong>Top Selling Items</strong></figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/ViewOrders.png" alt="View Orders" width="300">
-    <figcaption><strong>View Orders</strong></figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/MonthlySales.png" alt="Monthly Sales" width="300">
-    <figcaption><strong>Monthly Sales</strong></figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:20px;">
-    <img src="Screenshots/Exit.png" alt="Exit" width="300">
-    <figcaption><strong>Exit</strong></figcaption>
-  </figure>
-
-</div>
 
 
 
