@@ -112,6 +112,9 @@ java RestaurantOrderSystem
 ### Main Page
 ![Main Page](Screenshots/MainPage.png)
 
+### Menu Page
+![MenuPage](https://github.com/user-attachments/assets/c3b4dd12-10fa-44b4-a275-abf3f927a5ac)
+
 ### Place Order
 ![Place Order](Screenshots/PlaceOrder.png)
 
