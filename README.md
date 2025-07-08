@@ -182,40 +182,68 @@ java RestaurantOrderSystem</code></pre>
    java RestaurantOrderSystem
 
 
-## Project Screenshots
+<h2>📸 Project Screenshots</h2>
+<p>Here’s a visual walkthrough of FLAVORVERSE in action:</p>
 
-### Main Page
-![Main Page](Screenshots/MainPage.png)
+<div align="center">
 
-### Menu Page
-![Menu Page](https://github.com/user-attachments/assets/c3b4dd12-10fa-44b4-a275-abf3f927a5ac)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/MainPage.png" alt="Main Page" width="300">
+    <figcaption><strong>Main Page</strong></figcaption>
+  </figure>
 
-### Place Order
-![Place Order](Screenshots/PlaceOrder.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="https://github.com/user-attachments/assets/c3b4dd12-10fa-44b4-a275-abf3f927a5ac" alt="Menu Page" width="300">
+    <figcaption><strong>Menu Page</strong></figcaption>
+  </figure>
 
-### View Receipt
-![View Receipt](Screenshots/ViewReceipt.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/PlaceOrder.png" alt="Place Order" width="300">
+    <figcaption><strong>Place Order</strong></figcaption>
+  </figure>
 
-### Feedback
-![Feedback](Screenshots/Feedback.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/ViewReceipt.png" alt="View Receipt" width="300">
+    <figcaption><strong>View Receipt</strong></figcaption>
+  </figure>
 
-### Reorder Previous
-![Reorder Previous](Screenshots/ReorderPrevious.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/Feedback.png" alt="Feedback" width="300">
+    <figcaption><strong>Feedback</strong></figcaption>
+  </figure>
 
-### Status Update
-![Status Update](Screenshots/StatusUpdate.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/ReorderPrevious.png" alt="Reorder Previous" width="300">
+    <figcaption><strong>Reorder Previous</strong></figcaption>
+  </figure>
 
-### Top Selling Items
-![Top Selling Items](Screenshots/TopSelling.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/StatusUpdate.png" alt="Status Update" width="300">
+    <figcaption><strong>Status Update</strong></figcaption>
+  </figure>
 
-### View Orders
-![View Orders](Screenshots/ViewOrders.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/TopSelling.png" alt="Top Selling Items" width="300">
+    <figcaption><strong>Top Selling Items</strong></figcaption>
+  </figure>
 
-### Monthly Sales
-![Monthly Sales](Screenshots/MonthlySales.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/ViewOrders.png" alt="View Orders" width="300">
+    <figcaption><strong>View Orders</strong></figcaption>
+  </figure>
 
-### Exit
-![Exit](Screenshots/Exit.png)
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/MonthlySales.png" alt="Monthly Sales" width="300">
+    <figcaption><strong>Monthly Sales</strong></figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin:20px;">
+    <img src="Screenshots/Exit.png" alt="Exit" width="300">
+    <figcaption><strong>Exit</strong></figcaption>
+  </figure>
+
+</div>
+
 
 
 
