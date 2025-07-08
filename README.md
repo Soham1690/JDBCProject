@@ -134,47 +134,45 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 🖼️ GUI/CLI-based interactive terminal – runs in console, no external UI needed.
 
 
-## 🚀 Setup Instructions
-Follow these steps to get FLAVORVERSE up and running on your machine:
+<h2>🚀 Setup Instructions</h2>
+<p>Follow these steps to get <strong>FLAVORVERSE</strong> up and running on your machine:</p>
 
-🔧 1. Install Prerequisites
-Java JDK 8+
-Download and install from Oracle JDK or use OpenJDK.
+<details open>
+<summary><strong>🔧 Step 1: Install Prerequisites</strong></summary>
+<ul>
+  <li><strong>Java JDK 8+</strong> — Download from <a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html" target="_blank">Oracle JDK</a> or use OpenJDK.</li>
+  <li><strong>MySQL Server</strong> — Install from <a href="https://dev.mysql.com/downloads/mysql/" target="_blank">MySQL Downloads</a> and ensure it’s running locally.</li>
+</ul>
+</details>
 
-MySQL Server
-Download from MySQL Downloads and install. Ensure it's running locally.
+<details>
+<summary><strong>🛠️ Step 2: Create MySQL Database</strong></summary>
+<p>Open MySQL CLI or MySQL Workbench and run the following command:</p>
 
-🛠️ 2. Create MySQL Database
-Launch MySQL CLI or Workbench.
+<pre><code>CREATE DATABASE unisoft;</code></pre>
 
-Run the following to create the required database:
+<p>(Optional) Use the provided <code>.sql</code> file to create tables and insert initial sample data.</p>
+</details>
 
-sql
-Copy
-Edit
-CREATE DATABASE unisoft;
-(Optional) Use the provided .sql file to create tables and insert sample data.
+<details>
+<summary><strong>🔐 Step 3: Configure Database Connection</strong></summary>
+<p>Edit the connection credentials in <code>RestaurantOrderSystem.java</code>:</p>
 
-🔐 3. Configure Database Connection
-Open RestaurantOrderSystem.java.
-
-Update the DB credentials as per your setup:
-
-java
-Copy
-Edit
-String url = "jdbc:mysql://localhost:3306/unisoft";
+<pre><code>String url = "jdbc:mysql://localhost:3306/unisoft";
 String username = "your_mysql_username";
-String password = "your_mysql_password";
-🧪 4. Compile & Run the App
-Open the project in your favorite IDE (VS Code, IntelliJ, Eclipse) or use terminal:
+String password = "your_mysql_password";</code></pre>
+</details>
 
-bash
-Copy
-Edit
-javac RestaurantOrderSystem.java
-java RestaurantOrderSystem
-💡 Pro Tip: For best experience, use a terminal that supports emoji display (like VS Code Terminal or Windows Terminal).
+<details>
+<summary><strong>🧪 Step 4: Compile & Run the App</strong></summary>
+<p>Open your terminal or IDE and execute:</p>
+
+<pre><code>javac RestaurantOrderSystem.java
+java RestaurantOrderSystem</code></pre>
+
+<p><strong>💡 Pro Tip:</strong> For best visuals, use a terminal that supports emoji (e.g., Windows Terminal, VS Code).</p>
+</details>
+
 
 ## Usage
 
