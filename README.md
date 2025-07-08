@@ -184,9 +184,6 @@ java RestaurantOrderSystem</code></pre>
 
 ## Project Screenshots
 
-### Main Page
-![Main Page](Screenshots/MainPage.png)
-
 <h2>📸 Project Screenshots</h2>
 <p>A glimpse of the FLAVORVERSE experience:</p>
 
@@ -250,8 +247,3 @@ java RestaurantOrderSystem</code></pre>
 </div>
 
 
-### Monthly Sales
-![Monthly Sales](Screenshots/MonthlySales.png)
-
-### Exit
-![Exit](Screenshots/Exit.png)
