@@ -7,15 +7,16 @@
 
 FLAVORVERSE is a feature-rich restaurant order management system built in Java using JDBC and MySQL. It supports role-based login for Admin and Users, dynamic menu search, order placement with discounts, real-time receipt generation, and detailed sales reporting. This project demonstrates practical use of database connectivity, SQL queries, and object-oriented programming in Java.
 
-## Features
+## ✨ Features
+- 🍔 Role-based Login (Customer & Admin)
+- 📋 Dynamic Menu Display with Categories
+- 🛒 Place Orders, View Receipts & Estimated Delivery Time
+- 🔁 Reorder Previous Orders
+- 🎟️ Apply Discount Codes
+- 📝 Submit Feedback & Ratings
+- 📈 Admin Reports (Monthly Sales, Top-Selling Items)
+- 📸 Screenshot Gallery for Visual Demo
 
-- Role-based login for customers and admins
-- Place orders from a searchable menu
-- Generate detailed receipts with tax and emojis
-- Apply discount codes on orders
-- Estimate delivery time based on order complexity
-- Allow customers to add reviews and ratings
-- Admin panel for menu and order management
 
 
 ## Installation
