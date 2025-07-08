@@ -187,29 +187,68 @@ java RestaurantOrderSystem</code></pre>
 ### Main Page
 ![Main Page](Screenshots/MainPage.png)
 
-### Menu Page
-![MenuPage](https://github.com/user-attachments/assets/c3b4dd12-10fa-44b4-a275-abf3f927a5ac)
+<h2>📸 Project Screenshots</h2>
+<p>A glimpse of the FLAVORVERSE experience:</p>
 
-### Place Order
-![Place Order](Screenshots/PlaceOrder.png)
+<div align="center">
 
-### View Receipt
-![View Receipt](Screenshots/ViewReceipt.png)
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/MainPage.jpg" alt="Main Page" width="300">
+    <figcaption><strong>Main Page</strong></figcaption>
+  </figure>
 
-### Feedback
-![Feedback](Screenshots/Feedback.png)
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="https://github.com/user-attachments/assets/c3b4dd12-10fa-44b4-a275-abf3f927a5ac" alt="Menu Page" width="300">
+    <figcaption><strong>Menu Page</strong></figcaption>
+  </figure>
 
-### Reorder Previous
-![Reorder Previous](Screenshots/ReorderPrevious.png)
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/PlaceOrder.jpg" alt="Place Order" width="300">
+    <figcaption><strong>Place Order</strong></figcaption>
+  </figure>
 
-### Status Update
-![Status Update](Screenshots/StatusUpdate.png)
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/ViewReceipt.jpg" alt="View Receipt" width="300">
+    <figcaption><strong>View Receipt</strong></figcaption>
+  </figure>
 
-### Top Selling Items
-![Top Selling Items](Screenshots/TopSelling.png)
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/Feedback.jpg" alt="Feedback" width="300">
+    <figcaption><strong>Feedback</strong></figcaption>
+  </figure>
 
-### View Orders
-![View Orders](Screenshots/ViewOrders.png)
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/ReorderPrevious.jpg" alt="Reorder Previous" width="300">
+    <figcaption><strong>Reorder Previous</strong></figcaption>
+  </figure>
+
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/StatusUpdate.jpg" alt="Status Update" width="300">
+    <figcaption><strong>Status Update</strong></figcaption>
+  </figure>
+
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/TopSellingItems.jpg" alt="Top Selling Items" width="300">
+    <figcaption><strong>Top Selling Items</strong></figcaption>
+  </figure>
+
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/ViewOrders.jpg" alt="View Orders" width="300">
+    <figcaption><strong>View Orders</strong></figcaption>
+  </figure>
+
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/MonthlySales.jpg" alt="Monthly Sales" width="300">
+    <figcaption><strong>Monthly Sales</strong></figcaption>
+  </figure>
+
+  <figure style="display: inline-block; margin: 20px;">
+    <img src="Screenshots/Exit.jpg" alt="Exit" width="300">
+    <figcaption><strong>Exit</strong></figcaption>
+  </figure>
+
+</div>
+
 
 ### Monthly Sales
 ![Monthly Sales](Screenshots/MonthlySales.png)
