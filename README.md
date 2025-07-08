@@ -17,15 +17,13 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Soham1690/JDBCProject/master/Screenshots/Author.jpg" width="120" height="120" style="border-radius: 50%" alt="Soham Sanyal"/>
+      <img src="https://raw.githubusercontent.com/Soham1690/JDBCProject/master/Screenshots/Author.jpg" width="120" height="120" style="border-radius: 50%;" alt="Soham Sanyal"/>
       <br />
       <strong>Soham Sanyal</strong>
     </td>
   </tr>
 </table>
 
-- 📧 [sohamsanyal2@gmail.com](mailto:sohamsanyal2@gmail.com)  
-- 🔗 [linkedin.com/in/soham6969](https://www.linkedin.com/in/soham6969)
 
 
 <p style="margin-top: 4px;">Java Developer | Backend Engineer | Database Enthusiast</p> <p> <a href="https://github.com/Soham1690" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Soham1690-181717?style=flat&logo=github" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/soham6969" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Soham%20Sanyal-0077B5?style=flat&logo=linkedin" alt="LinkedIn"> </a> <a href="mailto:sohamsanyal2@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-sohamsanyal2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"> </a> </p> </div>
