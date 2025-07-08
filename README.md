@@ -12,6 +12,9 @@
 
 FLAVORVERSE is a feature-rich restaurant order management system built in Java using JDBC and MySQL. It supports role-based login for Admin and Users, dynamic menu search, order placement with discounts, real-time receipt generation, and detailed sales reporting. This project demonstrates practical use of database connectivity, SQL queries, and object-oriented programming in Java.
 
+## 👨‍🍳 Crafted By
+<div align="center"> <img src="https://avatars.githubusercontent.com/u/143920075?v=4" width="140" style="border-radius: 50%;" alt="Soham Sanyal Avatar"><br><br> <h3>Soham Sanyal</h3> <p>💻 Developer | 🍜 CLI Chef | 🔧 Java Enthusiast</p> <a href="https://github.com/Soham1690" target="_blank"> 🔗 GitHub: <strong>@Soham1690</strong> </a><br> <img src="https://img.shields.io/github/stars/Soham1690/JDBCProject?style=social" alt="GitHub stars"> <img src="https://img.shields.io/github/forks/Soham1690/JDBCProject?style=social" alt="GitHub forks"> </div>
+
 ## Installation
 1. Make sure you have **MySQL** installed and running.
 2. Create a database named `unisoft`.
