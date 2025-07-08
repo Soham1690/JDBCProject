@@ -28,6 +28,10 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 
 <p style="margin-top: 4px;">Java Developer | Backend Engineer | Database Enthusiast</p> <p> <a href="https://github.com/Soham1690" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Soham1690-181717?style=flat&logo=github" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/soham6969" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Soham%20Sanyal-0077B5?style=flat&logo=linkedin" alt="LinkedIn"> </a> <a href="mailto:sohamsanyal2@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-sohamsanyal2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"> </a> </p> </div>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=apachetomcat)
+![License](https://img.shields.io/github/license/Soham1690/JDBCProject?style=for-the-badge)
 
 ## Installation
 1. Make sure you have **MySQL** installed and running.
