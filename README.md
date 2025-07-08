@@ -230,3 +230,21 @@ java RestaurantOrderSystem</code></pre>
 - Built a **modular Java OOP system**
 - Implemented **real-world DB features**
 - Practiced professional **Git workflow**
+
+##  Contributing
+
+We welcome contributions! Choose how you'd like to help:
+
+<p align="left">
+  <a href="https://github.com/Soham1690/JDBCProject/issues/new" target="_blank">
+    <img src="https://img.shields.io/badge/Create Issue-blue?style=for-the-badge&logo=github" alt="Create Issue">
+  </a>
+  <a href="https://github.com/Soham1690/JDBCProject/fork" target="_blank">
+    <img src="https://img.shields.io/badge/Fork Repo-green?style=for-the-badge&logo=github" alt="Fork Repo">
+  </a>
+  <a href="https://github.com/Soham1690/JDBCProject/pulls" target="_blank">
+    <img src="https://img.shields.io/badge/Open Pull Request-ff69b4?style=for-the-badge&logo=github" alt="Open Pull Request">
+  </a>
+</p>
+
+Before making major changes, please open an issue first to discuss what you'd like to modify.
