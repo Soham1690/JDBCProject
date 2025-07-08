@@ -42,26 +42,59 @@ FLAVORVERSE is a feature-rich restaurant order management system built in Java u
 4. Run the program:
 
 
-## ✨ Features
+<h2>✨ Features</h2>
 
-### 👥 User & Admin Roles
-- 🔐 **Role-based Login System**: Seamless access for both Admins and Users.
+<table>
+  <tr>
+    <td><strong>👥 User & Admin Roles</strong></td>
+    <td>Separate access flows for regular users and administrators.</td>
+  </tr>
+  <tr>
+    <td><strong>🔐 Role-based Login System</strong></td>
+    <td>Secure authentication with different dashboards and privileges.</td>
+  </tr>
+  <tr>
+    <td><strong>🍽️ Smart Menu Search</strong></td>
+    <td>Instantly find dishes using keywords.</td>
+  </tr>
+  <tr>
+    <td><strong>🛍️ Interactive Order Placement</strong></td>
+    <td>Add items to your cart, apply discount codes, and confirm orders.</td>
+  </tr>
+  <tr>
+    <td><strong>📃 Receipt Generator</strong></td>
+    <td>Well-formatted receipts with tax calculation and emoji-enhanced items.</td>
+  </tr>
+  <tr>
+    <td><strong>🔁 Reorder Past Orders</strong></td>
+    <td>Quickly repeat your previous meals with a single command.</td>
+  </tr>
+  <tr>
+    <td><strong>⭐ Review & Rate Orders</strong></td>
+    <td>Submit feedback and ratings post-order to help improve service.</td>
+  </tr>
+  <tr>
+    <td><strong>📋 View All Orders</strong></td>
+    <td>Admins can see a comprehensive list of all user orders.</td>
+  </tr>
+  <tr>
+    <td><strong>📆 Monthly Sales Report</strong></td>
+    <td>Track total revenue and performance for each month.</td>
+  </tr>
+  <tr>
+    <td><strong>⏳ Update Order Status</strong></td>
+    <td>Modify the current status of orders (e.g., Preparing, Delivered).</td>
+  </tr>
+  <tr>
+    <td><strong>🏆 Top-Selling Items Report</strong></td>
+    <td>Automatically generates a report on best-selling dishes.</td>
+  </tr>
+  <tr>
+    <td><strong>📝 Manage Customer Feedback</strong></td>
+    <td>View and analyze reviews to improve food and service quality.</td>
+  </tr>
+</table>
 
-### 🍽️ Menu & Ordering
-- 🔎 **Smart Menu Search**: Find dishes by keyword.
-- 🛍️ **Interactive Order Placement**: Add items to your cart with optional discount codes.
-- 📃 **Receipt Generator**: View detailed order receipts with tax, emoji support, and final total.
-- 🔁 **Reorder Past Orders**: Quickly repeat your favorite meals!
-
-### 🗣️ Feedback System
-- ⭐ **Review & Rate Orders**: Let your tastebuds speak!
-
-### 🛠️ Admin Power Tools
-- 📋 **View All Orders**: See complete order history.
-- 📆 **Monthly Sales Report**: Get revenue insights.
-- ⏳ **Update Order Status**: Mark orders as preparing, delivered, etc.
-- 🏆 **Top-Selling Items Report**: Know what's trending on the menu.
-- 📝 **Manage Customer Feedback**: View and analyze reviews.
 
 <h2>🛠️ Tech Stack</h2>
 
